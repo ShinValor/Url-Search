@@ -23,7 +23,7 @@ Given any URL on the internet (mostly text-based website), the system saves the 
 The system parses the content into (English) words, removing [stop words](https://whatis.techtarget.com/definition/stop-word). Words that carry explicit meaning are stored into the database.
 This application allows users to query for URLS given a set of keywords.
 
-Examples:
+**Examples:**  
 “Give the user URLs that contain W+ where W+ is one or more words”
 “Give the user concurrent words given W -- if W occurs then a W also occurs with a certain probability.
 
