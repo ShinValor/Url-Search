@@ -24,7 +24,7 @@ The system parses the content into (English) words, removing [stop words](https:
 This application allows users to query for URLS given a set of keywords.
 
 **Examples:**  
-“Give the user URLs that contain W+ where W+ is one or more words”
+“Give the user URLs that contain W+ where W+ is one or more words”  
 “Give the user concurrent words given W -- if W occurs then a W also occurs with a certain probability.
 
 ## Getting Started
