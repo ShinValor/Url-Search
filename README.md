@@ -18,10 +18,10 @@
 
 ## Introduction
 
-Given any URL on the internet (mostly text-based website), the system saves the content and its context and retrieves such records.
+Given any URL on the internet (mostly text-based website), the system saves the content and its context and retrieves such records.  
 
-The system parses the content into (English) words, removing [stop words](https://whatis.techtarget.com/definition/stop-word). Words that carry explicit meaning are stored into the database.
-This application allows users to query for URLS given a set of keywords.
+The system parses the content into (English) words, removing [stop words](https://whatis.techtarget.com/definition/stop-word). Words that carry explicit meaning are stored into the database.  
+This application allows users to query for URLS given a set of keywords.  
 
 **Examples:**  
 “Give the user URLs that contain W+ where W+ is one or more words”  
@@ -160,8 +160,8 @@ __Sample Dataset__
 
 ## Contributors
 
-Ho Ming Poon
-Marco Valero
-Gillian Pantaleon
-Isabella Berekdar
-Michael Nurilov
+Ho Ming Poon  
+Marco Valero  
+Gillian Pantaleon  
+Isabella Berekdar  
+Michael Nurilov  
